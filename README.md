@@ -1,6 +1,6 @@
 [![GitHub](https://img.shields.io/github/followers/FelipeAJdev?label=follow&style=social)](https://github.com/FelipeAJdev)
 
-<img src="https://github.com/FelipeAJdev/FelipeAJdev/blob/Imagens/Banners/Banner%20Felipe%20Github.gif?raw=true" alt="Banner Felipe Github" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
+<img src="https://github.com/FelipeAJdev/FelipeAJdev/blob/imagens/banner_felipe%20_github_cinza_escuro.gif?raw=true" alt="Banner Felipe Github" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
 
 <!-- <p align="center">
   <b>Olá, eu sou Felipe Macedo,</b> <br>
