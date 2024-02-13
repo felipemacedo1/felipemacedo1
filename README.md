@@ -19,7 +19,8 @@
 -->
 <div align="center">
 <a href="https://github.com/FelipeAJdev" title="Minhas Linguagens">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAJdev&theme=swift&layout=compact"/></a>
+<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAJdev&theme=swift&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAJdev&theme=shadow_blue&layout=compact
+)"/></a>
 </div>
 
 
@@ -60,7 +61,9 @@
 <br>
 
 <a href="https://github.com/FelipeAJdev" title="Perfil FelipeMacedo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeAJdev&theme=theme=swift&show_icons=true" />
+  <img height="180em" src=" https://github-readme-stats.vercel.app/api?username=FelipeAJdev&theme=shadow_blue&show_icons=true" />
+ 
+
 </a>
 
 <h3>Onde me encontrar</h3>
