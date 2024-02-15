@@ -11,7 +11,7 @@
 
 - 🎓 Estudando **Gestão da Tecnologia da Informação** na [Universidade Anhembi Morumbi](https://portal.anhembi.br/).
 - 💻 Explorando Programação e tecnologias na nuvem.
-- 🚀 Bootcamp em Desenvolvimento Full Stack na [Generation Brasil](https://www.linkedin.com/school/generation-brasil/) Turma 69.
+- 🚀 Bootcamp em Desenvolvimento Full Stack na [Generation Brasil](https://www.linkedin.com/school/generation-brasil/).
 <br>
 <br>
 <!--
