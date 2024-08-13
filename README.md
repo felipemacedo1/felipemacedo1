@@ -36,7 +36,7 @@
 |:-------------:|:-------------:|:-------------:|
 | ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk&logoColor=red)      | ![React](https://img.shields.io/badge/React-323330?style=flat&logo=react&logoColor=61DAFB)       | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)      |
 | ![Spring](https://img.shields.io/badge/Spring-323330?style=flat&logo=spring&logoColor=green)      | ![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=flat&logo=typescript&logoColor=blue)       | ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=purple)       |
-| ![MySQL](https://img.shields.io/badge/MySQL-323330?style=flat&logo=mysql&logoColor=blue)       | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)      | ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)   |
+| ![MySQL](https://img.shields.io/badge/MySQL-323330?style=flat&logo=mysql&logoColor=blue)       | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)      | ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-323330?style=flat&logo=amazonaws&logoColor=white)   |
 
 ## Onde me encontrar
 
