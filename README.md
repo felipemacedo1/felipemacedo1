@@ -1,4 +1,5 @@
-[![GitHub](https://img.shields.io/github/followers/FelipeAJdev?label=follow&style=social)](https://github.com/FelipeAJdev)
+[![Linkedin](https://img.shields.io/badge/-Felipe_Macedo-blue?style=flat&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/felipemacedo1/)
+[![GitHub](https://img.shields.io/github/followers/FelipeAJdev?label=follow&style=social)](https://github.com/FelipeAJdev) 
 
 <img src="https://github.com/FelipeAJdev/FelipeAJdev/blob/imagens/banner_cinza_azulado_com_borda%20.gif?raw=true" alt="Banner Felipe Github" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
 
@@ -8,10 +9,9 @@
 </p>  -->
 
 ##  Sobre mim
-
-- 🎓 Estudando **Gestão da Tecnologia da Informação** na [Universidade Anhembi Morumbi](https://portal.anhembi.br/).
-- 💻 Explorando Programação, Cloud, Criptografia e Blockchain.
-- 🚀 Concluí o Bootcamp em Desenvolvimento Full Stack pela [Generation Brasil](https://www.linkedin.com/school/generation-brasil/).
+- 🎓 Cursando **Gestão da Tecnologia da Informação** na [Universidade Anhembi Morumbi](https://portal.anhembi.br/).
+- 🚀 Concluí o **Bootcamp em Desenvolvimento Full Stack** pela [Generation Brasil](https://www.linkedin.com/school/generation-brasil/).
+- 💻 Explorando **Programação**, **Cloud**, **Criptografia** e **Blockchain**.
 <br>
 <br>
 <!--
@@ -38,11 +38,12 @@
 | ![Spring](https://img.shields.io/badge/Spring-323330?style=flat&logo=spring&logoColor=green)      | ![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=flat&logo=typescript&logoColor=blue)       | ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=purple)       |
 | ![MySQL](https://img.shields.io/badge/MySQL-323330?style=flat&logo=mysql&logoColor=blue)       | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)      | ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-323330?style=flat&logo=amazonaws&logoColor=white)   |
 
+<!--
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Felipe_Macedo-blue?style=flat&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/felipemacedo1/)
 
-<!-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat&logo=Gmail&logoColor=red&color=white&link=mailto:SEU-EMAIL)](mailto:felipemacedo_contato@gmail.com) -->
+ [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat&logo=Gmail&logoColor=red&color=white&link=mailto:SEU-EMAIL)](mailto:felipemacedo_contato@gmail.com) -->
 
 
 
