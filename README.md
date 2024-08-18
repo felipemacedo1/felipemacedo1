@@ -18,7 +18,7 @@ Back-End Developer with experience in **Go**, **Java**, and **Spring Boot**. Ent
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAJdev&repo=dev-cloud-challenge&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/FelipeAJdev/dev-cloud-challenge)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAJdev&repo=blog_pessoal-spring&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/FelipeAJdev/blog_pessoal-spring)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAJdev&repo=JavaBookstore&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/FelipeAJdev/JavaBookstore)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAJdev&repo=JavaBookstore&theme=gdark&bg_color=0D1117&hide_border=false)](https://github.com/FelipeAJdev/JavaBookstore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAJdev&repo=js-wallet-generator&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/FelipeAJdev/js-wallet-generator)
 
 </div>
 
