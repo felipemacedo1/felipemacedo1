@@ -8,9 +8,14 @@ Back-End Developer with experience in **Go**, **Java**, and **Spring Boot**. Ent
 
 ## Projects
 
+<div align="center">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAJdev&repo=dev-cloud-challenge&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=ffffff&icon_color=79ff97)](https://github.com/FelipeAJdev/dev-cloud-challenge)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAJdev&repo=blog_pessoal-spring&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=ffffff&icon_color=79ff97)](https://github.com/FelipeAJdev/blog_pessoal-spring)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAJdev&repo=JavaBookstore&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=ffffff&icon_color=79ff97)](https://github.com/FelipeAJdev/JavaBookstore)
+
+</div>
+
 
 ## GitHub Stats
 
