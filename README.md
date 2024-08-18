@@ -19,7 +19,7 @@ Back-End Developer with experience in **Go**, **Java**, and **Spring Boot**. Ent
 
 ## ~ GitHub Stats
 
-<div align="left">
+<div align="center">
     <a href="https://github.com/FelipeAJdev" title="GitHub Stats">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeAJdev&theme=dark&bg_color=0D1117&show_icons=true"/>
     </a>
