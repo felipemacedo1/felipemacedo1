@@ -3,7 +3,7 @@
 -->
 ## ~ About Me
 
-Back-End Developer with experience in **Go**, **Java**, and **Spring Boot**. Enthusiast of **Cloud Computing**, **Cryptography**, and **Blockchain**. I have a strong interest in disruptive technologies and developing innovative solutions.
+Back-End Developer with experience in **Go**, **Java**, and **Spring Boot**. <!-- Enthusiast of **Cloud Computing**, **Cryptography**, and **Blockchain**. -->I have a strong interest in disruptive technologies and developing innovative solutions.
 <div align="right">
 
 [![Linkedin](https://img.shields.io/badge/-Felipe_Macedo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemacedo1/)](https://www.linkedin.com/in/felipemacedo1/)
