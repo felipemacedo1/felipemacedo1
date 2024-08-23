@@ -7,7 +7,7 @@ Back-End Developer with experience in **Go**, **Java**, and **Spring Boot**. <!-
 <div align="right">
 
 [![Linkedin](https://img.shields.io/badge/-Felipe_Macedo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemacedo1/)](https://www.linkedin.com/in/felipemacedo1/)
-[![GitHub](https://img.shields.io/github/followers/FelipeAJdev?label=follow&style=social)](https://github.com/FelipeAJdev)
+[![GitHub](https://img.shields.io/github/followers/FelipeAJdev?label=follow&style=social)](https://github.com/felipemacedo1)
 
 </div>
 
@@ -15,21 +15,21 @@ Back-End Developer with experience in **Go**, **Java**, and **Spring Boot**. <!-
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAJdev&repo=dev-cloud-challenge&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/FelipeAJdev/dev-cloud-challenge)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAJdev&repo=blog_pessoal-spring&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/FelipeAJdev/blog_pessoal-spring)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAJdev&repo=JavaBookstore&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/FelipeAJdev/JavaBookstore)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAJdev&repo=js-wallet-generator&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/FelipeAJdev/js-wallet-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAJdev&repo=dev-cloud-challenge&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/dev-cloud-challenge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAJdev&repo=blog_pessoal-spring&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/blog_pessoal-spring)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAJdev&repo=JavaBookstore&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/JavaBookstore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAJdev&repo=js-wallet-generator&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/js-wallet-generator)
 
 </div>
 
 ## ~ GitHub Stats
 
 <div align="center">
-    <a href="https://github.com/FelipeAJdev" title="GitHub Stats">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeAJdev&theme=dark&bg_color=0D1117&show_icons=true"/>
+    <a href="https://github.com/felipemacedo1" title="GitHub Stats">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemacedo1&theme=dark&bg_color=0D1117&show_icons=true"/>
     </a>
-    <a href="https://github.com/FelipeAJdev" title="Top Languages">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAJdev&theme=dark&bg_color=0D1117&layout=compact"/>
+    <a href="https://github.com/felipemacedo1" title="Top Languages">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemacedo1&theme=dark&bg_color=0D1117&layout=compact"/>
     </a>  
 </div>
 
