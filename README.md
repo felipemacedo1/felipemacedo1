@@ -1,5 +1,5 @@
 <!--
-<img src="https://github.com/FelipeAJdev/FelipeAJdev/blob/imagens/banner_cinza_azulado_com_borda%20.gif?raw=true" alt="Banner Felipe Github" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
+<img src="https://github.com/felipemacedo1/felipemacedo1/blob/imagens/banner_cinza_azulado_com_borda%20.gif?raw=true" alt="Banner Felipe Github" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
 -->
 ## ~ About Me
 
@@ -7,7 +7,7 @@ Back-End Developer with experience in **Go**, **Java**, and **Spring Boot**. <!-
 <div align="right">
 
 [![Linkedin](https://img.shields.io/badge/-Felipe_Macedo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemacedo1/)](https://www.linkedin.com/in/felipemacedo1/)
-[![GitHub](https://img.shields.io/github/followers/FelipeAJdev?label=follow&style=social)](https://github.com/felipemacedo1)
+[![GitHub](https://img.shields.io/github/followers/felipemacedo1?label=follow&style=social)](https://github.com/felipemacedo1)
 
 </div>
 
@@ -15,10 +15,10 @@ Back-End Developer with experience in **Go**, **Java**, and **Spring Boot**. <!-
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAJdev&repo=dev-cloud-challenge&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/dev-cloud-challenge)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAJdev&repo=blog_pessoal-spring&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/blog_pessoal-spring)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAJdev&repo=JavaBookstore&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/JavaBookstore)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAJdev&repo=js-wallet-generator&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/js-wallet-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=dev-cloud-challenge&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/dev-cloud-challenge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=blog_pessoal-spring&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/blog_pessoal-spring)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=JavaBookstore&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/JavaBookstore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=js-wallet-generator&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/js-wallet-generator)
 
 </div>
 
