@@ -14,7 +14,8 @@ Back-End Developer with experience in **Go**, **Java**, and **Spring Boot**. <!-
 ## ~ Projects
 
 <div align="center">
-
+    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=transaction-producer-ms&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/transaction-producer-ms/tree/main)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=dev-cloud-challenge&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/dev-cloud-challenge)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=spring-gamestore&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/spring-gamestore)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=spring-bookstore-management&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/spring-bookstore-management)
