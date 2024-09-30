@@ -35,7 +35,7 @@ Always eager to learn and improve, I am continuously expanding my knowledge, par
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemacedo1&theme=dark&bg_color=0D1117&show_icons=true"/>
     </a>
     <a href="https://github.com/felipemacedo1" title="Top Languages">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemacedo1&theme=dark&bg_color=0D1117&layout=compact"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemacedo1&hide=html,css&theme=dark&bg_color=0D1117&layout=compact"/>
     </a>  
 </div>
 
