@@ -13,7 +13,7 @@ Back-End Developer with experience in Go, Java, and Spring Boot, specializing in
 
 I am passionate about developing disruptive solutions that leverage innovative technologies, and I enjoy working with modern tools and methodologies such as CI/CD and Agile practices. Throughout my career, I have worked on projects involving financial systems and anti-fraud platforms, where performance, security, and scalability were key challenges.
 
-Always eager to learn and improve, I am continuously expanding my knowledge, particularly in the areas of cryptography and distributed systems.
+Always eager to learn and improve, I am continuously expanding my knowledge, particularly in the areas of cloud and distributed systems.
 
 
 ## ~ Projects
