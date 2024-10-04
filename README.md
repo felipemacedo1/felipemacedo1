@@ -1,16 +1,16 @@
-## ~ About Me
-<div align="right">
 
-[![Linkedin](https://img.shields.io/badge/-Felipe_Macedo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemacedo1/)](https://www.linkedin.com/in/felipemacedo1/)
-[![GitHub](https://img.shields.io/github/followers/felipemacedo1?label=follow&style=social)](https://github.com/felipemacedo1)
+## ~ Projects
+
+<div align="center">
+    
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=dev-cloud-challenge&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/dev-cloud-challenge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=spring-gamestore&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/spring-gamestore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=spring-bookstore-management&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/spring-bookstore-management)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=js-wallet-generator&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/js-wallet-generator)
 
 </div>
 
-I'm a **Back-End Developer** who has been building my skillset in **Go** and **Java**, and exploring areas like **Cloud Computing** and **Cryptography**. I graduated from the **Generation Brazil Java Full Stack bootcamp**, which gave me a strong foundation in **Java** and **Spring Boot**. This bootcamp really helped me understand how to create web applications, and since then, I've continued learning and working on side projects.
-
-After the bootcamp, I had the opportunity to work on **payment solutions**, where I gained familiarity with tools like **Docker**, **Kubernetes**, and **AWS**. I'm now participating in the **AWS-restart program**, which is helping me further expand my understanding of cloud technologies and how to use AWS effectively.
-
-Though I’m still growing as a developer, I enjoy working on projects that challenge me to improve my skills in **building scalable systems** and ensuring **security and performance**, particularly in areas like **financial technology**.
 
 ## ~ Current Project:
 - **[CryptoTool](https://github.com/shem-org/CryptoTool)**: An educational tool focused on the implementation of cryptographic algorithms in Go. The project supports various encryption techniques and aims to become a library for encrypting and decrypting data in future projects.
@@ -36,14 +36,14 @@ I'm still early in my journey, but I’m eager to keep learning, especially in a
     </a>  
 </div>
 
-## ~ Get in Touch
+<!--
+<div align="right">
 
-Feel free to reach out if you want to collaborate or chat about technology:
+[![Linkedin](https://img.shields.io/badge/-Felipe_Macedo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemacedo1/)](https://www.linkedin.com/in/felipemacedo1/)
+[![GitHub](https://img.shields.io/github/followers/felipemacedo1?label=follow&style=social)](https://github.com/felipemacedo1)
 
-- [LinkedIn](https://www.linkedin.com/in/felipemacedo1/)
-- [GitHub](https://github.com/felipemacedo1)
-
-
+</div>
+-->
 <!--
 <img src="https://github.com/felipemacedo1/felipemacedo1/blob/imagens/banner_cinza_azulado_com_borda%20.gif?raw=true" alt="Banner Felipe Github" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
 ## ~ About Me
@@ -61,17 +61,7 @@ I am passionate about developing disruptive solutions that leverage innovative t
 Always eager to learn and improve, I am continuously expanding my knowledge, particularly in the areas of cloud and distributed systems.
 
 
-## ~ Projects
 
-<div align="center">
-    
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=dev-cloud-challenge&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/dev-cloud-challenge)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=spring-gamestore&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/spring-gamestore)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=spring-bookstore-management&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/spring-bookstore-management)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=js-wallet-generator&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/js-wallet-generator)
-
-</div>
 
 ## ~ GitHub Stats
 
