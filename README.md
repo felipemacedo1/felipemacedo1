@@ -12,7 +12,7 @@ After the bootcamp, I had the opportunity to work on **payment solutions**, wher
 
 Though I’m still growing as a developer, I enjoy working on projects that challenge me to improve my skills in **building scalable systems** and ensuring **security and performance**, particularly in areas like **financial technology**.
 
-### Current Project:
+## ~ Current Project:
 - **[CryptoTool](https://github.com/shem-org/CryptoTool)**: An educational tool focused on the implementation of cryptographic algorithms in Go. The project supports various encryption techniques and aims to become a library for encrypting and decrypting data in future projects.
 
 <!--
