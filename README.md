@@ -13,7 +13,7 @@
 
 
 ## ~ Current Project:
-- **[CryptoTool](https://github.com/shem-org/CryptoTool)**: An educational tool focused on the implementation of cryptographic algorithms in Go. The project supports various encryption techniques and aims to become a library for encrypting and decrypting data in future projects.
+- **[CryptoTool](https://github.com/shem-org/CryptoTool)**: An educational tool focused on the implementation of cryptographic algorithms in Go. While it leverages existing libraries for encryption techniques, the primary goal is to offer a modular and easy-to-use framework for future projects.
 
 <!--
 ### Some Projects:
