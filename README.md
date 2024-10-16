@@ -12,10 +12,10 @@
 </div>
 
 
+<!--
 ## ~ Current Project:
 - **[CryptoTool](https://github.com/shem-org/CryptoTool)**: An educational tool focused on the implementation of cryptographic algorithms in Go. While it leverages existing libraries for encryption techniques, the primary goal is to offer a modular and easy-to-use framework for future projects.
 
-<!--
 ### Some Projects:
 - **[CryptoTool](https://github.com/shem-org/CryptoTool)**: An educational cryptography tool where I'm learning about encryption algorithms such as AES and RSA. It’s also designed to be used as a library for other Go projects.
 - **[go-antifraud-ms](https://github.com/felipemacedo1/go-antifraud-ms)**: A microservice for detecting fraudulent transactions, which I’ve been building to explore real-time data processing.
