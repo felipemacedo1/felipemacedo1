@@ -1,15 +1,26 @@
+<!--
 
 ## ~ Projects
 
 <div align="center">
-    
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=dev-cloud-challenge&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/dev-cloud-challenge)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=spring-gamestore&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/spring-gamestore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=react-gamestore-front&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/react-gamestore-front)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=spring-blog-platform&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/spring-blog-platform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=react-blog-plataform&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/react-blog-plataform)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=spring-bookstore-management&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/spring-bookstore-management)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=dev-cloud-challenge&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/dev-cloud-challenge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=go-antifraud-ms&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/go-antifraud-ms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=node-task-manager&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/node-task-manager)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=nest-taskmanager-app&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/nest-taskmanager-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=js-wallet-generator&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/js-wallet-generator)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=openfund-dao&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/openfund-dao)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipemacedo1&repo=react-pharmacy-front&theme=dark&bg_color=0D1117&hide_border=false)](https://github.com/felipemacedo1/react-pharmacy-front)
+-->
 </div>
+
 
 
 <!--
