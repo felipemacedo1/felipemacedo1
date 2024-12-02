@@ -4,9 +4,10 @@
     <a href="https://github.com/felipemacedo1" title="GitHub Stats">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemacedo1&theme=dark&bg_color=0D1117&show_icons=true"/>
     </a>
+    <!--
     <a href="https://github.com/felipemacedo1" title="Top Languages">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemacedo1&hide=html,css&theme=dark&bg_color=0D1117&layout=compact"/>
-    </a>  
+    </a> -->  
 </div>
 
 #### 🌱 Conheça o Growthfolio
