@@ -1,5 +1,9 @@
-#### ~ GitHub Stats
+#### 🌱 Conheça o Growthfolio
+- **[Growthfolio](https://github.com/growthfolio)**: Minha organização no GitHub, onde centralizo projetos de estudo, bootcamps e hackathons, documentando minha evolução na área de tecnologia.
+
 ---
+
+#### ~ GitHub Stats
 <div align="center">
     <a href="https://github.com/felipemacedo1" title="GitHub Stats">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemacedo1&theme=dark&bg_color=0D1117&show_icons=true"/>
@@ -10,7 +14,5 @@
     </a> -->  
 </div>
 
-#### 🌱 Conheça o Growthfolio
-- **[Growthfolio](https://github.com/growthfolio)**: Minha organização no GitHub, onde centralizo projetos de estudo, bootcamps e hackathons, documentando minha evolução na área de tecnologia.
 
 
