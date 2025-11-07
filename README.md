@@ -2,7 +2,7 @@
 - **[Growthfolio](https://github.com/growthfolio)**: Minha organização no GitHub, onde centralizo projetos de estudo, bootcamps e hackathons, documentando minha evolução na área de tecnologia.
 
 ---
-
+** Projeto que estou trabalhando atualmente: [KTAR](https://github.com/felipemacedo1/ktar) ** 
 #### ~ GitHub Stats
 <div align="center">
     <a href="https://github.com/felipemacedo1" title="GitHub Stats">
