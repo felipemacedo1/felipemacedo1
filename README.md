@@ -1,7 +1,7 @@
 #### 🌱 Conheça o Growthfolio
 - **[Growthfolio](https://github.com/growthfolio)**: Minha organização no GitHub, onde centralizo projetos de estudo, bootcamps e hackathons, documentando minha evolução na área de tecnologia.
 
-**Projeto que estou trabalhando atualmente: [KTAR](https://github.com/felipemacedo1/ktar)** 
+**Projeto que estou trabalhando atualmente: [Gamestore-wapp]([https://github.com/felipemacedo1/ktar](https://github.com/growthfolio/spring-gamestore))** 
 
 ---
 #### ~ GitHub Stats
