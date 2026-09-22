@@ -25,10 +25,12 @@ Automation pipeline that collects GitHub engineering metadata with Go and GitHub
 
 **Engineering themes:** Go · GitHub Actions · automation · MongoDB · data pipelines · Next.js
 
-### [GameStore](https://github.com/felipemacedo1/spring-gamestore)
-Spring-based backend project used to explore API design, persistence, authentication, external integrations and automated testing.
+### [Legacy Flight Recorder](https://github.com/felipemacedo1/legacy-flight-recorder)
+Local, fail-open Java agent for collecting runtime evidence from coupled Java 8 systems without modifying the target application.
 
-**Engineering themes:** Java · Spring Boot · REST APIs · JPA · security · testing
+It records configured method execution and JDBC activity into bounded local JSONL, then provides a separate CLI for call-tree and database-impact analysis. The project documents privacy boundaries, performance budgets, compatibility limits and measured overhead rather than treating instrumentation as risk-free.
+
+**Engineering themes:** Java 8 · Java agents · bytecode instrumentation · JDBC · observability · performance · legacy modernization · operational safety
 
 ## What I care about
 
