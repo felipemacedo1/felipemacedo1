@@ -2,7 +2,7 @@
 
 Analista de Sistemas com foco em entender contextos complexos, transformar necessidades de negócio em soluções sustentáveis e evoluir sistemas sem perder de vista quem depende deles.
 
-Meu trabalho passa por investigação de incidentes, integração entre sistemas, análise de impacto, melhoria contínua e comunicação clara entre áreas técnicas e de negócio. Gosto de problemas que exigem contexto, senso de prioridade, cuidado com risco e responsabilidade pelo resultado — não apenas pela entrega de código.
+Meu trabalho passa por investigação de incidentes, integração entre sistemas, análise de impacto, melhoria contínua e comunicação clara entre áreas técnicas e de negócio. Gosto de problemas que exigem contexto, senso de prioridade, cuidado com risco e responsabilidade pelo resultado não apenas pela entrega de código.
 
 ## Em que eu gero valor
 
