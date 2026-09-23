@@ -1,57 +1,31 @@
 # Felipe Macedo
 
-**Systems & Backend Engineer** focused on building, integrating and modernizing software that has to keep working in the real world.
+Desenvolvo ferramentas e sistemas em **Java** e **Go** para integração de dados, análise de aplicações legadas e automação. Trabalho com problemas onde confiabilidade, rastreabilidade e manutenibilidade importam mais do que adicionar outro framework.
 
-I work mainly with **Java, Go, SQL and backend systems**, with growing focus on **distributed systems, developer tooling, platform engineering and legacy modernization**. I enjoy problems where reliability, explainability, performance and maintainability matter more than adding another framework.
+## Projetos principais
 
-## Featured engineering work
+| Projeto | O que faz | Estado |
+|---------|-----------|--------|
+| **[Database Radar](https://github.com/felipemacedo1/database-radar)** | CLI para entender impacto de mudanças em bancos de dados em sistemas Java legados — análise estática de SQL, JDBC e JPA sem executar o código | Experimental |
+| **[Rizoma](https://github.com/felipemacedo1/rizoma)** | Engine Java para ingestão segura de planilhas com mapeamento explicável, validação e dry-run — não escreve no destino | Experimental |
+| **[Legacy Flight Recorder](https://github.com/felipemacedo1/legacy-flight-recorder)** | Agente Java para coletar evidências de execução em sistemas Java 8 acoplados sem modificar a aplicação | MVP pré-release |
+| **[Diagonal Cordéis](https://github.com/growthfolio/javafx-diagonalcordeis-open)** | Aplicação JavaFX para gestão e impressão — caso concreto de uso | Release v1.0.0 |
 
-### [Database Radar](https://github.com/felipemacedo1/database-radar)
-Offline static-analysis CLI for understanding database impact in legacy Java systems before changing a table or column.
+## Stack
 
-It analyzes JDBC SQL, SQL resources, JPA mappings and source calls without compiling or executing the target application, then builds an evidence graph with file/line provenance and explicit confidence levels.
+`Java` · `Spring Boot` · `Go` · `SQL` · `PostgreSQL` · `Docker` · `GitHub Actions`
 
-**Engineering themes:** Java · static analysis · SQL · legacy modernization · dependency graphs · CLI tooling · evidence-driven analysis
+## Caso de uso: Database Radar
 
-### [Rizoma](https://github.com/felipemacedo1/rizoma)
-Java engine for safe spreadsheet/data ingestion, profiling, schema mapping, transformation and validation.
+> Antes de alterar uma coluna no banco, quero saber quais arquivos do sistema Java a usam, mesmo que o projeto não compile localmente.
 
-Rizoma works with CSV/XLS/XLSX, produces explainable mapping suggestions, supports deterministic human feedback and reusable layout knowledge, and deliberately separates inference from authorization to write data.
+O Database Radar analisa código-fonte, arquivos SQL e mapeamentos JPA offline, construindo um grafo de evidências com origem (arquivo:linha) e nível de confiança.
 
-**Engineering themes:** Java 21 · data ingestion · streaming · schema mapping · profiling · validation · explainability · library/API design
+## Links
 
-### [Dev Metadata Sync](https://github.com/felipemacedo1/shell-metadata-sync)
-Automation pipeline that collects GitHub engineering metadata with Go and GitHub Actions, persists it in MongoDB and exports data for visualization.
-
-**Engineering themes:** Go · GitHub Actions · automation · MongoDB · data pipelines · Next.js
-
-### [Legacy Flight Recorder](https://github.com/felipemacedo1/legacy-flight-recorder)
-Local, fail-open Java agent for collecting runtime evidence from coupled Java 8 systems without modifying the target application.
-
-It records configured method execution and JDBC activity into bounded local JSONL, then provides a separate CLI for call-tree and database-impact analysis. The project documents privacy boundaries, performance budgets, compatibility limits and measured overhead rather than treating instrumentation as risk-free.
-
-**Engineering themes:** Java 8 · Java agents · bytecode instrumentation · JDBC · observability · performance · legacy modernization · operational safety
-
-## What I care about
-
-- Backend and systems engineering
-- Legacy-system modernization without unsafe rewrites
-- Developer tools that make complex systems easier to understand
-- APIs, integrations and data pipelines
-- Performance, observability and reliability
-- Distributed systems and platform engineering
-- Open-source software with documentation that another engineer can actually use
-
-## Core stack
-
-`Java` · `Spring Boot` · `Go` · `SQL` · `PostgreSQL` · `MySQL` · `REST APIs` · `Docker` · `Git` · `GitHub Actions`
-
-Also working with and studying distributed systems, cloud infrastructure, messaging, CI/CD and AI-assisted software engineering.
-
-## Current direction
-
-I'm increasingly interested in engineering at the intersection of **backend systems, infrastructure and developer tooling**: understanding large systems, reducing operational friction, modernizing legacy software safely and building reusable tools instead of one-off solutions.
+- 🌐 [Site](https://felipemacedo1.github.io)
+- 📧 [E-mail](mailto:felipemacedo.dev@gmail.com)
 
 ---
 
-Most of my repositories are experiments, studies or engineering work in different stages. The projects above are the best starting points if you want to understand how I approach software engineering.
+A maioria dos meus repositórios são experimentos, estudos ou trabalhos em diferentes estágios. Os projetos acima são os melhores pontos de partida.
