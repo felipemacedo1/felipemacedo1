@@ -1,31 +1,38 @@
 # Felipe Macedo
 
-Desenvolvo ferramentas e sistemas em **Java** e **Go** para integração de dados, análise de aplicações legadas e automação. Trabalho com problemas onde confiabilidade, rastreabilidade e manutenibilidade importam mais do que adicionar outro framework.
+Analista de Sistemas com foco em entender contextos complexos, transformar necessidades de negócio em soluções sustentáveis e evoluir sistemas sem perder de vista quem depende deles.
 
-## Projetos principais
+Meu trabalho passa por investigação de incidentes, integração entre sistemas, análise de impacto, melhoria contínua e comunicação clara entre áreas técnicas e de negócio. Gosto de problemas que exigem contexto, senso de prioridade, cuidado com risco e responsabilidade pelo resultado — não apenas pela entrega de código.
 
-| Projeto | O que faz | Estado |
-|---------|-----------|--------|
-| **[Database Radar](https://github.com/felipemacedo1/database-radar)** | CLI para entender impacto de mudanças em bancos de dados em sistemas Java legados — análise estática de SQL, JDBC e JPA sem executar o código | Experimental |
-| **[Rizoma](https://github.com/felipemacedo1/rizoma)** | Engine Java para ingestão segura de planilhas com mapeamento explicável, validação e dry-run — não escreve no destino | Experimental |
-| **[Legacy Flight Recorder](https://github.com/felipemacedo1/legacy-flight-recorder)** | Agente Java para coletar evidências de execução em sistemas Java 8 acoplados sem modificar a aplicação | MVP pré-release |
-| **[Diagonal Cordéis](https://github.com/growthfolio/javafx-diagonalcordeis-open)** | Aplicação JavaFX para gestão e impressão — caso concreto de uso | Release v1.0.0 |
+## Em que eu gero valor
 
-## Stack
+- Traduzo necessidades operacionais em soluções viáveis, rastreáveis e sustentáveis.
+- Investigo sistemas existentes antes de propor mudanças, reduzindo risco e retrabalho.
+- Conecto pessoas, processos e tecnologia para tirar integrações e fluxos críticos do papel.
+- Trabalho com autonomia, documentação e colaboração para que a solução continue útil depois da entrega.
+- Tenho interesse especial em modernização gradual, confiabilidade, observabilidade e produtos de infraestrutura.
 
-`Java` · `Spring Boot` · `Go` · `SQL` · `PostgreSQL` · `Docker` · `GitHub Actions`
+## Projetos em destaque
 
-## Caso de uso: Database Radar
+### [OpenSpeechBridge](https://github.com/felipemacedo1/open-speech-bridge)
 
-> Antes de alterar uma coluna no banco, quero saber quais arquivos do sistema Java a usam, mesmo que o projeto não compile localmente.
+Runtime open source, local-first, para tradução de voz em tempo real em chamadas de desktop. O projeto explora processamento de áudio com baixa latência, privacidade por padrão, arquitetura modular e integração por microfone virtual.
 
-O Database Radar analisa código-fonte, arquivos SQL e mapeamentos JPA offline, construindo um grafo de evidências com origem (arquivo:linha) e nível de confiança.
+É uma iniciativa em desenvolvimento ativo: a fundação e os contratos do runtime estão prontos; o próximo marco é fechar o fluxo real de áudio de entrada para saída virtual.
 
-## Links
+### [Database Radar](https://github.com/felipemacedo1/database-radar)
 
-- 🌐 [Site](https://felipemacedo1.github.io)
-- 📧 [E-mail](mailto:felipemacedo.dev@gmail.com)
+Ferramenta para investigar o impacto de alterações em bancos de dados de aplicações legadas antes de mudar uma tabela ou coluna. Produz evidências navegáveis sobre consultas, mapeamentos e dependências, mesmo quando o projeto não compila localmente.
 
----
+### [Rizoma](https://github.com/felipemacedo1/rizoma)
 
-A maioria dos meus repositórios são experimentos, estudos ou trabalhos em diferentes estágios. Os projetos acima são os melhores pontos de partida.
+Motor para importação segura de planilhas, com perfilamento de dados, mapeamento explicável, validação e execução controlada. A proposta é transformar arquivos variáveis em processos confiáveis, auditáveis e reutilizáveis.
+
+## Direção
+
+Estou construindo repertório em engenharia de software, plataformas e sistemas distribuídos, com atenção especial a sistemas corporativos críticos, integração, qualidade operacional e ferramentas que deixam sistemas complexos mais compreensíveis.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/felipe-macedo-)
+- [E-mail](mailto:felipemacedo.dev@gmail.com)
