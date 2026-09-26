@@ -1,54 +1,55 @@
 # Felipe Macedo
 
-**Analista de Sistemas · Engenharia de Software · Integração e Modernização**
+**Analista de Sistemas · Sistemas corporativos · Integrações e desenvolvimento**
 
-Atuo na interseção entre sistemas corporativos, processos de negócio e engenharia de software. Investigo sistemas existentes, conecto aplicações e dados e evoluo soluções com atenção a risco, rastreabilidade e continuidade operacional.
+Trabalho com sustentação, evolução e integração de sistemas corporativos. No dia a dia, investigo problemas, entendo regras de negócio, dou manutenção em aplicações existentes e desenvolvo melhorias para processos e sistemas que já estão em uso.
 
-Hoje trabalho como **Analista de Sistemas na SANSUY**, em um ambiente industrial com ERP, integrações, bancos de dados, aplicações desktop e web e demandas que atravessam TI e as áreas de negócio. Antes disso, atuei no backend de um sistema financeiro de autorização e processamento transacional.
+Hoje atuo como **Analista de Sistemas na SANSUY**, em um ambiente industrial com ERP, bancos de dados, aplicações desktop e web e integrações entre sistemas. Antes disso, tive experiência em backend em um sistema financeiro de autorização transacional.
 
-[Portfólio](https://felipemacedo.me) · [Currículo](https://felipemacedo.me/curriculo/) · [LinkedIn](https://www.linkedin.com/in/felipemacedo1/) · [E-mail](mailto:felipealexandrej@gmail.com)
+Meus repositórios misturam **projetos pessoais, estudos e experimentos técnicos**. Eles mostram o que venho construindo e aprendendo, mas não significam experiência profissional em produção com todas as tecnologias envolvidas.
 
-## Como trabalho
+[Site](https://felipemacedo.me) · [Currículo](https://felipemacedo.me/curriculo/) · [LinkedIn](https://www.linkedin.com/in/felipemacedo1/) · [E-mail](mailto:felipealexandrej@gmail.com)
 
-- **Investigo antes de alterar:** reconstruo regras, rastreio dependências e separo evidência de hipótese.
-- **Conecto contexto e implementação:** traduzo necessidades operacionais em decisões de engenharia que podem ser explicadas e mantidas.
-- **Modernizo com continuidade:** melhoro sistemas existentes sem perder de vista quem depende deles e o que precisa continuar funcionando.
-- **Documentação faz parte da entrega:** registro limites, riscos e decisões para reduzir retrabalho e tornar a próxima mudança mais segura.
+## No trabalho
 
-## Projetos em destaque
+- sustentação e evolução de sistemas corporativos;
+- investigação de problemas e análise de impacto;
+- manutenção e desenvolvimento em ERP e aplicações internas;
+- integrações entre aplicações, dados e processos;
+- contato com áreas de negócio para entender necessidades e transformar problemas em mudanças viáveis;
+- documentação e cuidado com sistemas legados.
+
+## Projetos pessoais selecionados
 
 ### [OpenSpeechBridge](https://github.com/felipemacedo1/open-speech-bridge)
 
-Runtime open source e local-first para tradução de voz em tempo real em conversas desktop. Explora uma arquitetura modular de áudio — microfone, buffer, STT, tradução, TTS e microfone virtual — com privacidade e engines substituíveis como princípios. Está em desenvolvimento ativo; o fluxo completo de áudio ainda é um trabalho em andamento.
+Projeto experimental para estudar tradução de voz em tempo real e áudio no desktop. Está em desenvolvimento e ainda possui partes importantes do fluxo a serem implementadas e testadas.
 
 ### [Database Radar](https://github.com/felipemacedo1/database-radar)
 
-Ferramenta offline de análise estática para investigar o impacto de mudanças em tabelas e colunas de aplicações Java legadas. Relaciona código, JDBC, SQL e JPA a evidências navegáveis de arquivo, linha, leitura, escrita e confiança, sem exigir compilação ou execução do sistema analisado.
+Ferramenta offline para estudar impacto de alterações em tabelas e colunas de aplicações Java, relacionando código, SQL, JDBC e JPA a evidências de arquivo e linha.
 
 ### [Rizoma](https://github.com/felipemacedo1/rizoma)
 
-Motor Java para ingestão, profiling, mapeamento e validação de CSV, XLS e XLSX. O mapeamento é explicável, o dry-run não escreve automaticamente no destino e feedback, anomalias e histórico permanecem explícitos para uma importação mais segura e auditável.
+Projeto para ingestão, análise e mapeamento de planilhas CSV, XLS e XLSX. Uso o projeto para aprofundar temas de importação de dados, validação, profiling e explicabilidade.
 
 ### [Legacy Flight Recorder](https://github.com/felipemacedo1/legacy-flight-recorder)
 
-Projeto experimental de observabilidade para aplicações Java 8 legadas. Um Java Agent registra evidências de métodos executados e recursos JDBC tocados em JSONL para análise posterior. É um pré-release local e fail-open, não um produto production-ready.
+Experimento com Java Agent para observar execução de aplicações Java legadas e registrar eventos de métodos e JDBC para análise posterior. Não é um produto pronto para produção.
 
-[Ver mais experimentos no GitHub](https://github.com/felipemacedo1?tab=repositories)
+[Ver outros repositórios](https://github.com/felipemacedo1?tab=repositories)
 
-## Formação e credenciais
+## Formação
 
 - **Gestão da Tecnologia da Informação** — Universidade Anhembi Morumbi, concluído.
 - **Ciência da Computação** — FMU, em andamento.
 - **Generation Brasil** — Full Stack Java, Turma 69.
-- **AWS re/Start** e formação complementar em Azure, desenvolvimento web e cibersegurança.
-- **Microsoft Certified: Azure Fundamentals**, além de badges verificáveis de aprendizagem e experiência no Credly.
+- **AWS re/Start**, Azure Fundamentals e outras formações complementares em desenvolvimento, cloud e segurança.
 
-[Ver credenciais e certificados](https://felipemacedo.me/credenciais/)
+## O que estou aprofundando
 
-## Direção técnica
-
-Engenharia de software, backend, integração, sistemas distribuídos, modernização de legados, confiabilidade, observabilidade, developer tooling e infraestrutura cloud. Tenho interesse especial por ferramentas que reduzem incerteza e tornam sistemas complexos mais compreensíveis para quem precisa mantê-los e evoluí-los.
+Tenho interesse em backend, integração de sistemas, modernização de aplicações legadas, cloud, confiabilidade e ferramentas de desenvolvimento. São áreas em que continuo estudando, praticando e ganhando experiência.
 
 ## Contato
 
-Se o problema envolve entender um sistema, conectar processos ou evoluir uma operação crítica com segurança, [vamos conversar](mailto:felipealexandrej@gmail.com).
+Se quiser conversar sobre sistemas corporativos, integrações, desenvolvimento ou algum dos projetos acima, pode me chamar pelo [LinkedIn](https://www.linkedin.com/in/felipemacedo1/) ou por [e-mail](mailto:felipealexandrej@gmail.com).
